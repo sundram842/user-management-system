@@ -1,0 +1,232 @@
+{
+  "user-list": [
+    {
+      "fname": "sundram",
+      "lname": "kumar",
+      "dob": "2022-11-17T12:39:40.613Z",
+      "username": "lsit52",
+      "email": "sundramkuma773@gmail.com",
+      "password": "Abcd@122",
+      "phone": [
+        "8686462851"
+      ],
+      "id": 1
+    },
+    {
+      "fname": "anand",
+      "lname": "ranjan",
+      "dob": "2022-11-18T12:45:48.844Z",
+      "username": "anand",
+      "email": "abc12@gmail.com",
+      "password": "ABcd@124",
+      "phone": [
+        "8686462851",
+        "8686462851",
+        "8686462851"
+      ],
+      "id": 2
+    },
+    {
+      "fname": "gghg",
+      "lname": "gghj",
+      "dob": "2022-11-21T05:58:10.772Z",
+      "username": "Davidd",
+      "email": "uh1@hh.com",
+      "password": "Abc@123c",
+      "phone": [
+        "9421567890"
+      ],
+      "id": 3
+    },
+    {
+      "fname": "anand",
+      "lname": "aaaa",
+      "dob": "2022-11-21T06:25:54.423Z",
+      "username": "aaa",
+      "email": "abc12@gmail.com",
+      "password": "Ab@123cc",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 4
+    },
+    {
+      "fname": "anand",
+      "lname": "ranjan",
+      "dob": "2022-11-21T06:28:39.109Z",
+      "username": "abc",
+      "email": "abc12@gmail.com",
+      "password": "A@v123bb",
+      "phone": [
+        "9574856745"
+      ],
+      "id": 5
+    },
+    {
+      "fname": "aaa",
+      "lname": "aaaa",
+      "dob": "2022-11-21T06:36:48.894Z",
+      "username": "aaaa",
+      "email": "abc12@gmail.com",
+      "password": "A1@fghdg",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 6
+    },
+    {
+      "fname": "esf       wedaef",
+      "lname": "gghj",
+      "dob": "2022-11-21T09:37:22.075Z",
+      "username": "David",
+      "email": "uh1@hh.com",
+      "password": "Abcd@123",
+      "phone": [
+        "8686462851"
+      ],
+      "id": 7
+    },
+    {
+      "fname": "sundram                               kumar",
+      "lname": "aaaa",
+      "dob": "2022-11-21T09:42:32.462Z",
+      "username": "aaaa",
+      "email": "aaa@gmail.com",
+      "password": "Abcde@k1",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 8
+    },
+    {
+      "fname": "anand           lvjkuuioukh",
+      "lname": "ranjan",
+      "dob": "2022-11-21T09:46:08.354Z",
+      "username": "abc",
+      "email": "abc12@gmail.com",
+      "password": "A@123ddd",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 9
+    },
+    {
+      "fname": "dgdfhg                   fhfghfhjghfg",
+      "lname": "ranjan",
+      "dob": "2022-11-21T09:52:34.091Z",
+      "username": "anand",
+      "email": "abc12@gmail.com",
+      "password": "Abc@123v",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 10
+    },
+    {
+      "fname": "aaa                 bbb",
+      "lname": "ranjan",
+      "dob": "2022-11-07T18:30:00.000Z",
+      "username": "aaa",
+      "email": "aaa@gmail.com",
+      "password": "A1@ftgds",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 11
+    },
+    {
+      "fname": "anand   dddssssd",
+      "lname": "abc",
+      "dob": "2022-11-21T10:39:55.895Z",
+      "username": "anand",
+      "email": "aaa@gmail.com",
+      "password": "A1@ghdks",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 12
+    },
+    {
+      "fname": "gfjgdtdytd           ffffyf",
+      "lname": "ranjan",
+      "dob": "2022-11-21T10:41:16.657Z",
+      "username": "anand",
+      "email": "abc12@gmail.com",
+      "password": "A2@fgdsf",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 13
+    },
+    {
+      "fname": "anand",
+      "lname": "ranjan",
+      "dob": "2022-11-22T09:50:12.140Z",
+      "username": "anand",
+      "email": "abc12@gmail.com",
+      "password": "Abcde@12",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 14
+    },
+    {
+      "fname": "sundram",
+      "lname": "abc",
+      "dob": "2022-11-22T09:51:11.195Z",
+      "username": "anand",
+      "email": "abc12@gmail.com",
+      "password": "Abc@123c",
+      "phone": [
+        "7689765439"
+      ],
+      "id": 15
+    },
+    {
+      "fname": "gghg",
+      "lname": "Tim",
+      "dob": "2022-11-22T10:15:53.366Z",
+      "username": "David",
+      "email": "uh1@hh.com",
+      "password": "Abc@122s",
+      "phone": [
+        "9421567890"
+      ],
+      "id": 16
+    },
+    {
+      "fname": "anand",
+      "lname": "ranjan",
+      "dob": "2022-11-22T10:33:45.253Z",
+      "username": "anand",
+      "email": "aaa@gmail.com",
+      "password": "Abch@12f",
+      "phone": [
+        "9112345611"
+      ],
+      "id": 17
+    },
+    {
+      "fname": "Sundram",
+      "lname": "Singh",
+      "dob": "2022-11-24T05:00:02.248Z",
+      "username": "lsit152",
+      "email": "sundramkumar773@gmail.com",
+      "password": "Abc@123v",
+      "phone": [
+        "9868646285"
+      ],
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "user-list": [
+      {
+        "fname": "fgdf",
+        "lname": "dfgdfg",
+        "dob": "2022-11-07T18:30:00.000Z",
+        "username": "dfdfg",
+        "email": "dfgdfg@d",
+        "password": "Aa1@4555",
+        "phone": [
+          "5457567567"
+        ],
+        "id": 1
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
